@@ -13,3 +13,4 @@ langgraph-sdk
 langsmith
 plotly
 scikit-learn
+statsmodels

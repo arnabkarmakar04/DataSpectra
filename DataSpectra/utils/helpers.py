@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import google.generativeai as genai
 
 @st.cache_data
 def load_data(uploaded_file):

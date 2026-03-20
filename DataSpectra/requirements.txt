@@ -12,3 +12,4 @@ langgraph-prebuilt
 langgraph-sdk                            
 langsmith
 plotly
+scikit-learn

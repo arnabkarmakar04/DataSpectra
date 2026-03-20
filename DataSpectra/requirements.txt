@@ -11,3 +11,4 @@ langgraph-checkpoint
 langgraph-prebuilt                       
 langgraph-sdk                            
 langsmith
+plotly
